@@ -16,5 +16,5 @@ Ensure you have Python installed on your system (Python 3.6 or later recommended
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/yourusername/access-management-face-recognition.git
+git clone https://github.com/idsjoe/Access-Management-System-using-Facial-Recognition/tree/main
 cd access-management-face-recognition
